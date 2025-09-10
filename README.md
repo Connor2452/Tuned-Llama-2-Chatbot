@@ -16,7 +16,7 @@ The model was trained on a dataset of **medical terms** and produces specialized
 ## Example Usage  
 
 **Prompt:**  
-<s>[INST] Please tell me about Ascariasis [/INST]
+Please tell me about Ascariasis
 
 **Model Output (example):** 
 Ascariasis is a parasitic infection caused by the Ascaris lumbricoides roundworm, which is the most common intestinal parasite in the world. everybody gets infected with Ascaris at some point in their lifetime, but most people don't exhibit any symptoms. However, in some cases, the infection can cause a range of health problems, including:
