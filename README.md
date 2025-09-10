@@ -44,5 +44,6 @@ Click the button below to create your own copy of the notebook directly from thi
 - README.md # Project documentation
 - fine_tuning_llms_with_hugging_face.py # Same file but in .py format
 
-  ## Note
-  - This project was made in Colab and is intended to run in that enviroment, if trying to recreate results other packages may be required
+## Note
+- This project was made in Colab and is intended to run in that enviroment
+- If trying to recreate results other packages may be required
